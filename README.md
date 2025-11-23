@@ -18,7 +18,7 @@ automated posting to Pinterest.</p>
 <p>No cookies, analytics tools, or tracking mechanisms are used.</p>
 
 <p>If you have any questions, you can contact the developer at:
-your-email@example.com</p>
+codjs.py@gmail.com</p>
 
 <p>Last updated: 2025</p>
 
