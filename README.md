@@ -1,7 +1,7 @@
 # privacy-policy 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<<meta name="p:domain_verify" content="3f4afd4a8cd2355f1b94f867482e2a21"/>>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
 </head>
